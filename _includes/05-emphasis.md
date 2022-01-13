@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am _tall_ and _handsome_. Im also *not* a compulsive liar. _*NOT A COMPULSIVE LIAR*_
